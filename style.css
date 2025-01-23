@@ -24,6 +24,7 @@ section .container{
   align-items center;
   justify-content: center;
   height: 220px;
+  overflow: hidden;
   max-width: 560px;
   width: 100%;
   background: #fff;
