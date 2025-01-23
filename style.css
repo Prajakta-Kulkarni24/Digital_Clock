@@ -11,10 +11,11 @@ section{
   height: 100vh;
   width: 100%;
   display: flex;
+  overflow: hidden;
   align-items: center;
   justify-content: center;
   background: #F0F8FF;
-  padding: 0 20px;
+  padding: 0 ;
 }
 section.dark{
   background: #24292D;
@@ -24,7 +25,6 @@ section .container{
   align-items center;
   justify-content: center;
   height: 220px;
-  overflow: hidden;
   max-width: 560px;
   width: 100%;
   background: #fff;
