@@ -8,10 +8,10 @@
   transition: all 0.4s ease;
 }
 section{
-  height: 100vh;
+  height: 95vh;
   width: 100%;
   display: flex;
-  overflow: hidden;
+  overflow-x: hidden;
   align-items: center;
   justify-content: center;
   background: #F0F8FF;
