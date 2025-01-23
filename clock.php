@@ -30,4 +30,18 @@ $current_timestamp = $date->getTimestamp();
     });
 </script>
 
-<span class="timer"></span><br /><br /><br />
+<style>
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+    }
+    .timer {
+        font-size: 48px;
+        font-family: Arial, sans-serif;
+    }
+</style>
+
+<span class="timer"></span>
