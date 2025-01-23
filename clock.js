@@ -21,5 +21,3 @@ function updateClock() {
 $(document).ready(function() {
     setInterval(updateClock, 1000);
 });
-
-<span class="timer"></span>
