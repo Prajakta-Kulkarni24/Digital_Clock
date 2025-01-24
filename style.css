@@ -115,7 +115,7 @@ section.dark .time .colon{
   font-weight: 700;
   letter-spacing: 2px;
 }
-#clock .time {
+#clock .day{
   font-size: 35px;
   font-weight: 600;
   margin-top: 10px;
@@ -124,10 +124,9 @@ section.dark .time .colon{
 #clock .date {
   font-size: 20px;
   font-weight: 500;
+  color: black; /* Ensure the text color is visible */
   margin-top: 5px;
 }
-
-
 section.dark  .time .time-colon .text{
   color: #fff;
 }
