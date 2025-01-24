@@ -115,6 +115,19 @@ section.dark .time .colon{
   font-weight: 700;
   letter-spacing: 2px;
 }
+#clock .time {
+  font-size: 35px;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+#clock .date {
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 5px;
+}
+
+
 section.dark  .time .time-colon .text{
   color: #fff;
 }
