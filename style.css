@@ -12,6 +12,7 @@ section{
   width: 100%;
   display: flex;
   overflow-x: hidden;
+  position: fixed;
   align-items: center;
   justify-content: center;
   background: #F0F8FF;
