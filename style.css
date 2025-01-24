@@ -84,8 +84,8 @@ section.dark .time .time-colon .am_pm{
   color: #fff;
 }
 .time .time-colon .time-text{
-  height: 100px;
-  width: 100px;
+  height: 150px;
+  width: 150px;
   display: flex;
   align-items: center;
   flex-direction: column;
