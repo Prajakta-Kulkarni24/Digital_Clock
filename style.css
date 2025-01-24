@@ -26,7 +26,7 @@ section .container{
   align-items center;
   justify-content: center;
   height: auto;
-  max-width: 560px;
+  max-width: 700px;
   width: 100%;
   background: #fff;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
@@ -84,8 +84,8 @@ section.dark .time .time-colon .am_pm{
   color: #fff;
 }
 .time .time-colon .time-text{
-  height: 150px;
-  width: 150px;
+  height: 100px;
+  width: 100px;
   display: flex;
   align-items: center;
   flex-direction: column;
